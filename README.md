@@ -76,7 +76,7 @@ double liseOgrenciNotOrtalamasi = liseOgrenci.liseNotOrtalamasiHesapla();
 
 System.out.println("Lise Öğrenci Not Ortalaması: " + liseOgrenciNotOrtalamasi);
 
-
+------------------------------------------------------------------------------------
 Yukarıdaki örnek kodda, bir öğrenci ve bir lise öğrencisi oluşturulur ve not ortalamaları hesaplanır. Sonuçlar ekrana yazdırılır.
 
 Bu projede nesneye yönelik programlama prensiplerini (sınıflar, nesneler, kalıtım) kullanarak öğrenci yönetimi gerçekleştirilmektedir.
